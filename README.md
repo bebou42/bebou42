@@ -3,7 +3,7 @@
   Votre navigateur ne supporte pas la balise vidéo.
 </video>
 
-L'École 42 est une école de programmation unique en son genre, fondée sur des principes innovants d'apprentissage par projets et de collaboration. Dans le cursus principal, on commencent par maîtriser des langages de programmation de bas niveau, comme le C, pour développer une compréhension approfondie des concepts fondamentaux du développement. Cette approche permet de faciliter l'apprentissage ultérieur de langages de haut niveau.
+L'École 42 est une école de programmation unique en son genre, fondée sur des principes innovants d'apprentissage par projets et de collaboration. Dans le cursus principal, on commencent par maîtriser des langages de programmation de bas niveau, comme le C, pour développer une compréhension approfondie des concepts fondamentaux du développement. grace a cela la connaissance des langages de haut niveau en découle naturellement et paraît d'une simplicité extraordinaire.
 
 Après ce cursus initial, les étudiants se spécialisent dans des domaines spécifiques. 
 
